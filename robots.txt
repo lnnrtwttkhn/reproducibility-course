@@ -1,1 +1,1 @@
-Sitemap: https://github.com/lnnrtwttkhn/reproducibility-course/sitemap.xml
+Sitemap: https://lennartwittkuhn.com/reproducibility-course/sitemap.xml
