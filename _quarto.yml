@@ -16,7 +16,7 @@ website:
   repo-branch: main
   repo-actions: [issue, source]
   twitter-card: false
-  site-url: https://lennartwittkuhn.com/eproducibility-course/
+  site-url: https://lennartwittkuhn.com/reproducibility-course/
   navbar:
     left:
       - href: index.qmd
@@ -24,6 +24,11 @@ website:
       - href: references.qmd
         text: References
       - about.qmd
+    right:
+      - href: "{{< var links.nextcloud-url >}}"
+        text: "{{< fa cloud-arrow-up >}} Files"
+      - href: "{{< var links.repo-url >}}"
+        text: "{{< fa brands github >}} Code"
 
 format:
   html:
