@@ -7,6 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: references.qmd
+        text: References
       - about.qmd
 
 format:
@@ -14,6 +16,8 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    bibliography: references.bib
+    csl: apa-6th-edition.csl
 
 
 
