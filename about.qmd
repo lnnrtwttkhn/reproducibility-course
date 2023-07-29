@@ -2,4 +2,27 @@
 title: "About"
 ---
 
-About this site
+- https://thehardestscience.com/2016/08/11/everything-is-fucked-the-syllabus/
+- https://thenib.com/repeat-after-me/
+- https://open-science-course.github.io/course_website/course_content.html
+- https://carpentries-incubator.github.io/managing-computational-projects/index.html
+- https://gin-tonic.netlify.app
+- https://royalsocietypublishing.org/doi/10.1098/rsos.221255
+- https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010615
+- https://poldrack.github.io/psych-open-science-guide/README.html
+- https://www.nature.com/articles/d41586-023-01929-7
+- https://goodresearch.dev/index.html
+- https://www.jclinepi.com/article/S0895-4356(22)00141-X/fulltext
+- https://psych-transparency-guide.uni-koeln.de
+- https://elifesciences.org/labs/e623676c/reproducibility-automated
+- https://www.nature.com/articles/nbt.3780
+- https://www.nature.com/articles/550143a
+- https://journal.trialanderror.org/pub/the-invisible-workload/release/1
+- https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668
+- https://blog.datadryad.org/2023/05/30/good-data-practices-removing-barriers-to-data-reuse-with-cc0-licensing/
+- https://osf.io/kcvra/
+- https://zenodo.org/record/7560900#.ZGy0C33P2zU
+- https://datascience.codata.org/articles/10.5334/dsj-2020-042
+- https://royalsocietypublishing.org/doi/full/10.1098/rspb.2022.1113
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6705117/
+- https://www.nature.com/articles/s41597-022-01143-6

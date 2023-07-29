@@ -21,6 +21,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: schedule.qmd
+        text: Schedule  
       - href: references.qmd
         text: References
       - about.qmd
