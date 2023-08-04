@@ -1,0 +1,33 @@
+---
+title: "Syllabus"
+---
+
+## Wintersemester 2023/24
+
+### Reproducibilizy
+
+### Unix Shell
+
+### Version control of code using Git
+
+- Code Sharing
+
+### Version control of data using DataLad
+
+- Data Sharing
+
+### Literate Programming
+
+- Jupyter
+- Quarto
+
+
+
+## Summersemester 2024
+
+- Find a paper with open code and data
+- Try to reproduce the paper's results with *minimal* modifications to the original code and data
+- Update the materials to improve the code and data
+- 
+
+
