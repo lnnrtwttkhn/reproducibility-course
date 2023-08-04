@@ -7,13 +7,6 @@
     "text": "About this site"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "reproducibility-course",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",
@@ -33,5 +26,12 @@
     "title": "References",
     "section": "References",
     "text": "References\n\n\nPownall, M., Azevedo, F., König, L. M., Slack, H. R., Evans, T. R., Flack, Z., … Sadhwani, S. (2023). Teaching open and reproducible scholarship: a critical review of the evidence base for current pedagogical methods and their outcomes. Royal Society Open Science, 10(5). https://doi.org/10.1098/rsos.221255"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "reproducibility-course",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
