@@ -3,11 +3,12 @@ title: „Schedule“
 —
 
 1. Introduction: Computational Reproducibility
-1. Project 
+1. Project Organization: File Management
 1. Literate Programming: Quarto
 1. Literate Programming: Python
 1. Version control of code: Git
 1. Version control of data: DataLad
+1. Data Structure Standards: BIDS
 1. Computational Environments: Virtual Environments (venv & renv)
 1. Computational Environments: Containers (Docker & Apptainer)
 1. Workflow Management: targets & ??? (Python version)
